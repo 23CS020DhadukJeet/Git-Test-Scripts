@@ -1,3 +1,4 @@
+# Version 2 - Updated login automation test
 def test_login():
     username = "admin"
     password = "12345"
